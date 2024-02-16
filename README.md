@@ -6,7 +6,7 @@
 
 <!-- Demo -->
 <p align="center">
-  <a href="https://shantan125.github.io/BMI-Calculator/"><strong>Live Demo</strong></a>
+  <a href="https://shantan125.github.io/BMI-Calculator/"><strong> Check Your BMI </strong></a>
 </p>
 
 <!-- Screenshots -->
