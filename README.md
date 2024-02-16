@@ -27,7 +27,7 @@
 
 <!-- Installation -->
 ## Installation
-1. Clone the repository: `git clone https://github.com/your_username/bmi-calculator.git`
+1. Clone the repository: `git clone https://github.com/shantan125/bmi-calculator.git`
 2. Open `index.html` in your browser
 
 <!-- Usage -->
