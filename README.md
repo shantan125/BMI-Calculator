@@ -11,7 +11,7 @@
 
 <!-- Screenshots -->
 <p align="center">
-  <img src="BMI.jpg" alt="BMI Calculator" width="600">
+  <img src="BMI.jpg" alt="BMI Calculator" width="600" height="400">
 </p>
 
 <!-- Features -->
