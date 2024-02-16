@@ -1,38 +1,39 @@
-# BMI Calculator
+<!-- Title -->
+<h1 align="center">BMI Calculator</h1>
 
-This BMI (Body Mass Index) Calculator is a simple web application developed using HTML, CSS, and JavaScript. It helps users calculate their BMI based on their weight and height inputs, providing valuable insights into their health and fitness.
+<!-- Description -->
+<p align="center">A simple BMI (Body Mass Index) Calculator built with HTML, CSS, and JavaScript.</p>
 
-## Live Demo
+<!-- Demo -->
+<p align="center">
+  <a href="#"><strong>Live Demo</strong></a>
+</p>
 
-You can try out the live demo of the BMI Calculator [here](#).
+<!-- Screenshots -->
+<p align="center">
+  <img src="screenshot.png" alt="BMI Calculator Screenshot" width="600">
+</p>
 
+<!-- Features -->
 ## Features
+- Calculate BMI based on weight and height inputs
+- Dynamic interpretation of BMI categories (Underweight, Normal Weight, Overweight)
 
-- Calculate BMI: Input your weight and height to instantly calculate your BMI.
-- Dynamic Interpretation: The BMI calculator dynamically interprets the calculated BMI to categorize it into underweight, normal weight, or overweight, providing users with actionable insights.
-- Responsive Design: The calculator is designed to be responsive, ensuring optimal viewing and interaction experience across a wide range of devices and screen sizes.
-
-## How to Use
-
-1. Input your weight in kilograms (kg) and your height in meters (m).
-2. Click the "Calculate" button to generate your BMI result.
-3. View the interpretation provided below the result to understand your BMI category.
-
-## Installation
-
-To run the BMI Calculator locally:
-
-1. Clone this repository to your local machine.
-2. Open the `index.html` file in your web browser.
-
-## Technologies Used
-
+<!-- Technologies -->
+## Technologies
 - HTML
 - CSS
 - JavaScript
 
-## Contributing
+<!-- Installation -->
+## Installation
+1. Clone the repository: `git clone https://github.com/your_username/bmi-calculator.git`
+2. Open `index.html` in your browser
 
-Contributions are welcome! Feel free to fork this repository, make improvements, and submit a pull request.
+<!-- Usage -->
+## Usage
+1. Enter your weight in kilograms.
+2. Enter your height in meters.
+3. Click the "Calculate" button to see your BMI and its interpretation.
 
 
