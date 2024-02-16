@@ -6,12 +6,12 @@
 
 <!-- Demo -->
 <p align="center">
-  <a href="#"><strong>Live Demo</strong></a>
+  <a href="https://shantan125.github.io/BMI-Calculator/"><strong>Live Demo</strong></a>
 </p>
 
 <!-- Screenshots -->
 <p align="center">
-  <img src="screenshot.png" alt="BMI Calculator Screenshot" width="600">
+  <img src="BMI.jpg" alt="BMI Calculator" width="600">
 </p>
 
 <!-- Features -->
